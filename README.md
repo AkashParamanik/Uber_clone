@@ -1,4 +1,5 @@
-﻿# Uber-Clone [Demo](https://uber-clone-frontend-72cb.onrender.com)
+﻿# Uber-Clone 
+ [Demo](https://uber-clone-frontend-72cb.onrender.com)
  # 🚗 Uber Clone - Frontend
 
 This is the frontend portion of an Uber-like ride-hailing application, built with **ReactJS**. It includes separate flows for **Users** and **Captains (Drivers)**, live tracking, authentication, ride management, and UI transitions.
