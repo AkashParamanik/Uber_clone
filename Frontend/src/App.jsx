@@ -12,7 +12,7 @@ import CaptainProtectedWrapper from "./Pages/CaptainProtectedWrapper";
 import CaptainLogout from "./Pages/CaptainLogout";
 import Riding from "./Pages/Riding";
 import CaptainRiding from "./Pages/CaptainRiding";
-import Home from "./Pages/home";
+import Home from "./Pages/Home";
 
 const App = () => {
   return (
