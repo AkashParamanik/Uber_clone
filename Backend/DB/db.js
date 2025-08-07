@@ -9,4 +9,5 @@ function connectToDb() {
     .catch((err) => console.log(err));
 }
 
+//no
 module.exports = connectToDb;
